@@ -31,6 +31,7 @@ input{
 
 main, header{
     width: 90%;
+    max-width: 750px;
     display: flex;
     flex-direction: column;
     align-items: center;
